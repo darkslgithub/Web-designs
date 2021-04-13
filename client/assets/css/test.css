@@ -1,0 +1,20 @@
+/* .ordered-food::before{
+    content: '';
+    background: url(/assets/images/food.jpg);
+    height: 55px;
+    width: 60px;
+    position: absolute;
+    background-color: #000;
+  } */
+
+/* 
+  .bottom-border p::before {
+    content: " ";
+    position: absolute;
+    width: 13em;
+    background: #00bfff;
+    height: 0.4em;
+    bottom: 0;
+    z-index: -1;
+    margin-left: -0.3em;
+  } */
